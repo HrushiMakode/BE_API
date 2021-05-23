@@ -1,0 +1,5 @@
+tensorflow==2.3.0
+pickle5==0.0.11
+numpy==1.19.2
+fastapi==0.65.1
+Pillow==8.2.0
