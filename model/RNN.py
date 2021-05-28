@@ -11,7 +11,7 @@ from numpy import array
 
 
 max_train_sequence_length = 34
-vocab_size = 1652
+vocab_size = 5349
 embedding_dim = 200
 
 
